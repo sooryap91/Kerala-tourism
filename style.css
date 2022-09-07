@@ -1,0 +1,27 @@
+*
+{
+    padding: 0;
+    margin: 0;
+}
+.navbar
+{
+background-image: url("images/bckimg.png");
+
+}
+
+#logo {
+    margin-top: 0px;
+    margin-left: 0px;
+}
+
+.nav-item a {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+    text-decoration: none;
+    margin-left: 100px;
+    word-spacing: 1px;
+}
+.collapse >ul>li>a:hover{
+    background-color:darkblue;
+    color: black !important;
+}
