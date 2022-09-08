@@ -33,3 +33,17 @@ background size: 2px;
     background-color:darkgreen;
     color: black !important;
 }
+.carousel-inner > .carousel-item > img { height:410px; }
+
+
+#button
+{
+    margin-left: 150px;
+    margin-top: 2px;
+}
+#button1
+{
+    margin-left: 50px;
+    margin-top: 2px;
+
+}
