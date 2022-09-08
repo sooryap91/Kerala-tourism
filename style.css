@@ -27,7 +27,7 @@ background size: 2px;
     font-size: large;
     text-decoration: none;
     margin-left: 100px;
-    word-spacing: 1px;
+    word-spacing: 10px;
 }
 .collapse >ul>li>a:hover{
     background-color:darkgreen;
