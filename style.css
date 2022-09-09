@@ -33,6 +33,7 @@ background size: 2px;
     background-color:darkgreen;
     color: black !important;
 }
+
 .carousel-inner > .carousel-item > img { height:410px; }
 
 
@@ -97,7 +98,13 @@ float: right;
  }
  #goto1
  {
-    /* padding-top: 500px; */
     float: right;
-    /* text-align: center; */
  }
+ .list-group
+ {
+    word-spacing: 4px;
+ }
+ .row >.content>.list-group >a:hover{
+    background-color:yellow;
+    color: black !important;
+}
