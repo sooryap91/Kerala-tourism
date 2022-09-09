@@ -59,3 +59,19 @@ margin-top: 180px;
 margin-top: 185px;
 float: right;
 }
+
+.my_login {
+    
+    height: 25em;
+    padding: 30px;
+    margin-right: 20px;
+    
+}
+.my_login h2{
+    text-align: center;
+}
+.my_login > .form-group
+ {
+    width: 400px;
+    margin-left: 450px;
+ }
