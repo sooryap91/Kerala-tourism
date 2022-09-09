@@ -75,3 +75,29 @@ float: right;
     width: 400px;
     margin-left: 450px;
  }
+ #goto
+ {
+    float: right;
+ }
+ .new_user
+ {
+    height: 25em;
+    padding: 30px;
+    margin-right: 20px;
+    
+ }
+ .new_user > .form-group
+ {
+    width: 400px;
+    margin-left: 390px;
+    
+ }
+ .new_user h2{
+    text-align: center;
+ }
+ #goto1
+ {
+    /* padding-top: 500px; */
+    float: right;
+    /* text-align: center; */
+ }
