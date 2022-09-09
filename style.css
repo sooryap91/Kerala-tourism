@@ -36,14 +36,26 @@ background size: 2px;
 .carousel-inner > .carousel-item > img { height:410px; }
 
 
-#button
+.side_heading p
 {
-    margin-left: 150px;
-    margin-top: 2px;
+    
+font-family:cursive;
+font-size:xx-large;
+text-align:center;
+ color: red;
 }
-#button1
+.side_heading 
 {
-    margin-left: 50px;
-    margin-top: 2px;
+    background-image:url("images/map.png");
+    background-position:bottom;
+}
+.side_heading > #button
+{
+margin-top: 180px;
 
+}
+.side_heading > #button1
+{
+margin-top: 185px;
+float: right;
 }
