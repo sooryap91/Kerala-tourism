@@ -108,3 +108,26 @@ float: right;
     background-color:yellow;
     color: black !important;
 }
+.trivandrum
+{
+    background-image:url("images/Padmanabhatemple.png");
+    
+background-size:cover;
+background-repeat:no-repeat;
+}
+.trivandrum h1
+{
+text-align: center;
+font: size 25px;
+font-weight: bolder;
+}
+.trivandrum > .tvm_contents
+{
+    
+    word-spacing: 25px;
+    font-size:xx-large;
+    color:brown;
+    font-style: italic;
+    font-weight: bolder;
+    
+}
