@@ -57,7 +57,7 @@ margin-top: 180px;
 }
 .side_heading > #button1
 {
-margin-top: 185px;
+margin-top: 180px;
 float: right;
 }
 
@@ -107,36 +107,17 @@ float: right;
  .row >.content>.list-group >a:hover{
     background-color:yellow;
     color: black !important;
-}
-.trivandrum
-{
-    background-image:url("images/wp1jpg.jpg");
+} 
+.Thvm {
+    color:white;
+    text-decoration: none;
+    word-spacing: 30px;
+    font-size: x-large;
     
-background-size:cover;
-background-repeat:no-repeat;
-}
-.trivandrum h1
-{
-text-align: center;
-color: darkgreen;
-font: size 25px;
-font-weight: bolder;
-}
-.trivandrum > .tvm_contents
-{
-    
-    word-spacing: 25px;
-    font-size:xx-large;
-    color:darkgreen;
-    
-    font-weight: bolder;
     
 }
-.row > .head_tvm > .card > .card-body  h1
-
-{
-text-align: center;
-font-weight: bolder;
-word-spacing: 10px;
+.Thvm  h1{
+    color:blueviolet;
+    
+    
 }
-
