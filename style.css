@@ -110,7 +110,7 @@ float: right;
 }
 .trivandrum
 {
-    background-image:url("images/Padmanabhatemple.png");
+    background-image:url("images/wp1jpg.jpg");
     
 background-size:cover;
 background-repeat:no-repeat;
@@ -118,6 +118,7 @@ background-repeat:no-repeat;
 .trivandrum h1
 {
 text-align: center;
+color: darkgreen;
 font: size 25px;
 font-weight: bolder;
 }
@@ -126,8 +127,16 @@ font-weight: bolder;
     
     word-spacing: 25px;
     font-size:xx-large;
-    color:brown;
-    font-style: italic;
+    color:darkgreen;
+    
     font-weight: bolder;
     
 }
+.row > .head_tvm > .card > .card-body  h1
+
+{
+text-align: center;
+font-weight: bolder;
+word-spacing: 10px;
+}
+
