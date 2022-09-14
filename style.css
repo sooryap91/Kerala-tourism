@@ -117,16 +117,16 @@ float: right;
     
     
 }
-.Thvm  h1{
+.Thvm  h2{
     color:blueviolet;
-    text-align: left;
+    text-align: center;
 
     
     
 }
 
  #goto2
-{float: right;
+{float: left;
 }
 .Ekm {
     color:black;
@@ -137,16 +137,16 @@ float: right;
     
     
 }
-.Ekm  h1{
+.Ekm  h2{
     color:blueviolet;
-    text-align: left;
+    text-align: center;
 
     
     
 }
 
  #goto2
-{float: right;
+{float: left;
 }
 .Wayanadu {
     color:black;
@@ -157,9 +157,9 @@ float: right;
     
     
 }
-.Wayanadu h1{
+.Wayanadu h2{
     color:blueviolet;
-    text-align: left;
+    text-align: center;
 
 }
     
@@ -172,9 +172,9 @@ float: right;
     text-align: justify;
     
 }
-.Thrissuru h1{
+.Thrissuru h2{
     color:blueviolet;
-    text-align: left;
+    text-align: center;
 }
 .Palakkad
 {
@@ -185,8 +185,8 @@ float: right;
     text-align: justify;
     
 }
-.Palakkad h1{
+.Palakkad h2{
     color:palevioletred;
-    text-align: left;
+    text-align: center;
 
 }
