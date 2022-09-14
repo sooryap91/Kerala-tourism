@@ -111,82 +111,82 @@ float: right;
 .Thvm {
     color:white;
     text-decoration: none;
-    word-spacing: 30px;
-    font-size: x-large;
+    word-spacing: 7px;
+    font-size: large;
+    text-align: justify;
     
     
 }
 .Thvm  h1{
     color:blueviolet;
-    
-    
-}
-.hotspots
-{
-    color:blueviolet;
-    font-size: xx-large;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    margin-left: 405px;
+    text-align: left;
 
+    
+    
 }
+
  #goto2
 {float: right;
 }
 .Ekm {
     color:black;
     text-decoration: none;
-    word-spacing: 30px;
-    font-size: x-large;
+    word-spacing: 7px;
+    font-size: large;
+    text-align: justify;
     
     
 }
 .Ekm  h1{
     color:blueviolet;
-    
-    
-}
-.hotspots
-{
-    color:blueviolet;
-    font-size: xx-large;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    margin-left: 405px;
+    text-align: left;
 
+    
+    
 }
+
  #goto2
 {float: right;
 }
 .Wayanadu {
     color:black;
     text-decoration: none;
-    word-spacing: 30px;
-    font-size: x-large;
+    word-spacing: 7px;
+    font-size: large;
+    text-align: justify;
     
     
 }
 .Wayanadu h1{
     color:blueviolet;
+    text-align: left;
+
 }
     
 .Thrissuru
 {
     color:black;
     text-decoration: none;
-    word-spacing: 30px;
-    font-size: x-large;
+    word-spacing: 7px;
+    font-size: large;
+    text-align: justify;
     
 }
 .Thrissuru h1{
     color:blueviolet;
+    text-align: left;
 }
 .Palakkad
 {
     color:palevioletred;
     text-decoration: none;
-    word-spacing: 30px;
-    font-size: x-large;
+    word-spacing: 7px;
+    font-size: large;
+    text-align: justify;
     
 }
 .Palakkad h1{
     color:palevioletred;
+    text-align: left;
+
 }
