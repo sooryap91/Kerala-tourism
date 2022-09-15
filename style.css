@@ -145,8 +145,12 @@ float: right;
     
 }
 
+
  #goto2
 {float: left;
+}
+#goto3
+{float: right;
 }
 .Wayanadu {
     color:black;
@@ -186,6 +190,7 @@ float: right;
     text-align: justify;
     
 }
+
 
 
 .Palakkad h2{
