@@ -195,15 +195,15 @@ float: right;
 
 .Palakkad h2{
     color:palevioletred;
-    text-align: center;
+    
 
 }
 .districts a {
     font-family:Georgia, 'Times New Roman', Times, serif;
-    font-size: large;
+    font-size:large;
     /* text-decoration: none; */
     /* margin-left: 100px; */
-    word-spacing: 10px;
+    
     color: brown;
 }
 .districts a:hover{
