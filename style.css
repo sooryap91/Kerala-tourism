@@ -200,8 +200,9 @@ margin-left: 120px;
 }
 .districts a {
     font-family:Georgia, 'Times New Roman', Times, serif;
-    font-size:large;
-    /* text-decoration: none; */
+    font-size:small;
+    display: inline;
+    text-decoration: none;
     /* margin-left: 100px; */
     
     color: brown;
@@ -210,8 +211,54 @@ margin-left: 120px;
     background-color:crimson;
     color: black !important;
 }
+
 .dist1
 {
     text-align: center;
+}
+.districts #kol {
+    
+    margin-left: 20px;
+    
+}
+.districts #kas {
+    
+    margin-left: 19px;
+    
+}
+.districts #kan {
+    
+    margin-left: 15px;
+    
+}
+.districts #idu {
+    
+    margin-left: 45px;
+    
+}
+.districts #pat {
+    
+    margin-left: 0px;
+    
+}
 
+.districts #way {
+    
+    margin-left: 37px;
+    
+}
+.districts #mal {
+    
+    margin-left: 0px;
+    
+}
+.districts #tri {
+    
+    margin-left: 0px;
+    
+}
+.districts #ern {
+    
+    margin-left: 15px;
+    
 }
