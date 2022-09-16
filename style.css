@@ -3,7 +3,7 @@
     padding: 0;
     margin: 0;
 }
-
+/* setting the logo starts */
 #logo {
     
     margin-left: 0 ;
@@ -11,6 +11,8 @@
     
     
 }
+/* setting the logo ends */
+/* styling the navbar starts */
 .navbar
 {
 background-image: url("images/HD-wallpaper-background-bg-nature-green-texture.jpg");
@@ -33,7 +35,8 @@ background size: 2px;
     background-color:darkgreen;
     color: black !important;
 }
-
+/* styling the navbar ends */
+/* inside starts */
 .carousel-inner > .carousel-item > img { height:410px; }
 
 
@@ -108,6 +111,8 @@ margin-left: 120px;
     background-color:yellow;
     color: black !important;
 } 
+/* inside ends */
+/* styling the districts */
 .Thvm {
     color:white;
     text-decoration: none;
@@ -270,3 +275,4 @@ margin-left: 120px;
 {
     margin-top: 250px;
 }
+/* styling the districts ends */
